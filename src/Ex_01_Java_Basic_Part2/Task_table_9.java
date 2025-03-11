@@ -5,7 +5,7 @@ public class Task_table_9 {
     public static void main(String[] args) {
         int table = 8;
 
-       /* System.out.printf("%d x 1 = %d\n", table, table * 1);
+       System.out.printf("%d x 1 = %d\n", table, table * 1);
         System.out.printf("%d x 2 = %d\n", table, table * 2);
         System.out.printf("%d x 3 = %d\n", table, table * 3);
         System.out.printf("%d x 4 = %d\n", table, table * 4);
@@ -70,7 +70,8 @@ public class Task_table_9 {
         System.out.println();
         System.out.printf("%d x %d = %d ", a,b,a*b);*/
 
-        int a = 9;
+//below this is just trying something, so ignore this code
+        /*int a = 9;
         int b = 1; int c = 2; int d = 3; int e = 4; int f = 5; int g = 6; int h = 7; int i = 8; int j = 9; int k = 10;
         System.out.println(a*b);
         System.out.println(a*b);
@@ -82,7 +83,7 @@ public class Task_table_9 {
         System.out.println(a*h);
         System.out.println(a*i);
         System.out.println(a*j);
-        System.out.println(a*k);
-
+        System.out.println(a*k);*/
+//above this is just trying something, so ignore this code
     }
 }
